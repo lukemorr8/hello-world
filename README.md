@@ -1,2 +1,5 @@
 # hello-world
-starting out
+
+What's Up! 
+
+My name is Luke and I am creating a repository.
